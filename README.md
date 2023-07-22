@@ -4,10 +4,6 @@
 
 <center>
 
-<img src="https://cdn.dribbble.com/users/328551/screenshots/5130711/media/3f29da3b4c58b9fd6117bc1ba7bf15d9.gif" style="width:50%; height:50%">
-
-<br><br>
-
 | Sr No |      Name of the Project       |                                                                                                                     Link to the Project                                                                                                                     |                                                                                                                                                                                                                                                                                                                                             Live Link |
 | :---- | :----------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 1     | Stock Price Prediction Website |                                  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="width:10px; height:10px"> Github](https://github.com/BlamerX/Stock-Price-Prediction-WebSite)                                  | [<img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" style="width:10px; height:10px"> Streamlit](https://stockpricepredictions.streamlit.app/) <br>[<img src="https://avatars.githubusercontent.com/u/42682871?s=280&v=4" style="width:10px; height:10px"> Render](https://stock-price-prediction-yr17.onrender.com/) |
